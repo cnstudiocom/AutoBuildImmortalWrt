@@ -39,8 +39,6 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
-
-PACKAGES="$PACKAGES netdata"
 PACKAGES="$PACKAGES kms-server"
 PACKAGES="$PACKAGES luci-app-smartdns"
 PACKAGES="$PACKAGES luci-app-ssr-plus"
